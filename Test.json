@@ -1,0 +1,30 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Test",
+				"abbreviation": "FAKE",
+				"full": "Test",
+				"version": "1",
+				"authors": [
+					"James"
+				],
+				"color": "c77a7a"
+			}
+		]
+	},
+	"item": [
+		{
+			"name": "Liquid Brass Knuckles",
+			"source": "Test",
+			"rarity": "rare",
+			"wondrous": true,
+			"entries": [
+				"A great blacksmith forged these brass knuckles for once of the strongest barbarians who ever lived. A different great blacksmith then melted them down for the metal, but the knuckles fought back.",
+				"As a bonus action while this vial is on you, you can cause the liquid in this vial to coat an unarmed or natural weapon you have for 1 minute. While coated in this way, the weapon deals extra damage equal to half of your strength modifier (Rounded up, Minimum of 0).",
+				"Additionally, if use an ability or spell that grants you a natural weapon (Such as Alter Self), you can choose to cause the liquid to coat that weapon as part of the ability or spell.",
+				"Once a weapon has been coated by the liquid, the vial cannot be used again for 1 hour."
+			]
+		}
+	]
+}
